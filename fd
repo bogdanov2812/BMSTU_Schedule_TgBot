@@ -1,0 +1,83 @@
+[33mcommit 5258f3cd3a4a4eff8b8133ab5f14d0e0c830fd4b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bogdanov2812 <43501392+bogdanov2812@users.noreply.github.com>
+Date:   Wed Feb 2 17:04:45 2022 +0300
+
+    Update README.md
+
+[33mcommit 9c4de86319727f1fa37d09b8524d7fe36098280b[m
+Author: bogdanov2812 <43501392+bogdanov2812@users.noreply.github.com>
+Date:   Tue Feb 1 23:02:33 2022 +0300
+
+    Create README.md
+
+[33mcommit 73826128ce1209e0e5950b7280324f7fc737c38c[m
+Author: bogdanov2812 <43501392+bogdanov2812@users.noreply.github.com>
+Date:   Tue Feb 1 22:16:27 2022 +0300
+
+    Update bigdata.py
+
+[33mcommit d6dbee6de1ca45eb9226204a9381789295c68f6d[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Fri Sep 10 18:07:01 2021 +0300
+
+    token to venv
+
+[33mcommit bd6dbe8b3c85cce5ad865dda36d521387dec8569[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Fri Sep 10 18:06:31 2021 +0300
+
+    add Screenshots
+
+[33mcommit c4b54708eb33083c5d127cde4cbddc442c854200[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Fri Sep 10 18:05:49 2021 +0300
+
+    add reform_week
+
+[33mcommit 9b185bf2b8443122eba8286a9a96dee9a00eff13[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Mon Sep 6 15:34:35 2021 +0300
+
+    token to venv
+
+[33mcommit 43be83424975e6d64ace064dce005581e4aae971[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Sun Sep 5 21:48:56 2021 +0300
+
+    delete config
+
+[33mcommit 66429dabe83b337b46990cc9a08f1d2c40e9c7dc[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Sun Sep 5 21:28:14 2021 +0300
+
+    add runtime.txt
+
+[33mcommit f01934cf5ed73336eb98223930a77ed5d65183f4[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Sun Sep 5 21:27:12 2021 +0300
+
+    add runtime.txt
+
+[33mcommit 8b04dbc5f6a946bb59b87a3ee6c08c6f8212d5c2[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Sun Sep 5 21:07:57 2021 +0300
+
+    Upgrading to heroku-20
+
+[33mcommit 7693418bbf5be649c1e3d288431f646cbf34d4a2[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Sun Sep 5 21:02:00 2021 +0300
+
+    Delete Conf
+
+[33mcommit 1963bead4274cc2bf094e1c93615d2ec8c6848e7[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Sun Sep 5 19:35:50 2021 +0300
+
+    Token
+
+[33mcommit a6f20aa7cbeacf358fb4ffe8ad63102f638be3b1[m
+Author: homelion432@gmail.com <homelion432@gmail.com>
+Date:   Sat Sep 4 19:51:24 2021 +0300
+
+    Initial commit
